@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <name>
+      <string>Доска из мягкой древесины</string>
+      <string>Доска из твердой древесины</string>
+    </name>
+    <cost>
+      <string>10000</string>
+    </cost>
+    <quantity>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+      <string>40</string>
+      <string>50</string>
+    </quantity>
+    <region>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Льняная веревка</string>
+      <string>Льняная ткань</string>
+    </name>
+    <cost>
+      <string>5000</string>
+    </cost>
+    <quantity>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </quantity>
+    <region>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Оконный модуль</string>
+    </name>
+    <cost>
+      <string>6000</string>
+    </cost>
+    <quantity>
+      <string>10</string>
+      <string>15</string>
+      <string>20</string>
+    </quantity>
+    <region>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Дверной модуль</string>
+    </name>
+    <cost>
+      <string>50000</string>
+    </cost>
+    <quantity>
+      <string>5</string>
+      <string>10</string>
+      <string>15</string>
+    </quantity>
+    <region>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Строительный набор</string>
+      <string>Наковальня</string>
+    </name>
+    <cost>
+      <string>100000</string>
+    </cost>
+    <quantity>
+      <string>5</string>
+      <string>10</string>
+      <string>15</string>
+    </quantity>
+    <region>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Тонкая кожа</string>
+      <string>Толстая кожа</string>
+    </name>
+    <cost>
+      <string>10000</string>
+    </cost>
+    <quantity>
+      <string>5</string>
+      <string>10</string>
+      <string>15</string>
+    </quantity>
+    <region>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+</ArrayOfGroup>

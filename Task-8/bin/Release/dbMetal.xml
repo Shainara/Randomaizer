@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <name>
+      <string>Слиток металла</string>
+    </name>
+    <cost>
+      <string>100</string>
+    </cost>
+    <quantity>
+      <string>50</string>
+      <string>75</string>
+      <string>100</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Слиток меди</string>
+    </name>
+    <cost>
+      <string>200</string>
+    </cost>
+    <quantity>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Слиток серебра</string>
+    </name>
+    <cost>
+      <string>500</string>
+    </cost>
+    <quantity>
+      <string>10</string>
+      <string>30</string>
+      <string>50</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Слиток золота</string>
+    </name>
+    <cost>
+      <string>1000</string>
+    </cost>
+    <quantity>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Слиток стали</string>
+    </name>
+    <cost>
+      <string>7500</string>
+    </cost>
+    <quantity>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Слиток востасской стали</string>
+    </name>
+    <cost>
+      <string>250000</string>
+    </cost>
+    <quantity>
+      <string>5</string>
+      <string>10</string>
+      <string>15</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Бриллиант</string>
+      <string>Изумруд</string>
+      <string>Аметист</string>
+      <string>Гранат</string>
+      <string>Рубин</string>
+      <string>Сапфир</string>
+    </name>
+    <cost>
+      <string>15000</string>
+    </cost>
+    <quantity>
+      <string>2</string>
+      <string>4</string>
+      <string>6</string>
+      <string>8</string>
+      <string>10</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+</ArrayOfGroup>

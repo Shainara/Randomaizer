@@ -1,0 +1,10 @@
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\bin\Debug\Task_8.exe.config
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\bin\Debug\Task_8.exe
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\bin\Debug\Task_8.pdb
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\obj\Debug\Task-8.csprojAssemblyReference.cache
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\obj\Debug\Task_8.Properties.Resources.resources
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\obj\Debug\Task-8.csproj.GenerateResource.cache
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\obj\Debug\Task-8.csproj.CoreCompileInputs.cache
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\obj\Debug\Task_8.exe
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\obj\Debug\Task_8.pdb
+D:\Учеба\CS\CS-1\Lesson-8\Task-8\Task-8\obj\Debug\Task_8.Form1.resources

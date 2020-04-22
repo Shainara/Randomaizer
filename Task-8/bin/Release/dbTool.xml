@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <name>
+      <string>Серп</string>
+      <string>Лопата</string>
+      <string>Кирка</string>
+    </name>
+    <cost>
+      <string>10000</string>
+    </cost>
+    <quantity>
+      <string>5</string>
+      <string>10</string>
+      <string>15</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Молот кузнеца</string>
+      <string>Киянка</string>
+      <string>Топор</string>
+      <string>Кирка из закаленной стали</string>
+      <string>Пила</string>
+      <string>Нож</string>
+      <string>Разделочный нож</string>
+      <string>Тигель и щипцы</string>
+    </name>
+    <cost>
+      <string>30000</string>
+      <string>40000</string>
+      <string>50000</string>
+      <string>60000</string>
+    </cost>
+    <quantity>
+      <string>1</string>
+      <string>2</string>
+      <string>3</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Набор столяра</string>
+      <string>Набор стеклодува</string>
+      <string>Набор ткача</string>
+      <string>Набор ювелира</string>
+    </name>
+    <cost>
+      <string>30000</string>
+      <string>40000</string>
+      <string>50000</string>
+      <string>60000</string>
+    </cost>
+    <quantity>
+      <string>1</string>
+      <string>2</string>
+      <string>3</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Одежда кузнеца</string>
+      <string>Одежда плотника</string>
+      <string>Одежда алхимика</string>
+      <string>Снаряжение инженера</string>
+      <string>Одежда повара</string>
+    </name>
+    <cost>
+      <string>70000</string>
+      <string>80000</string>
+      <string>90000</string>
+      <string>100000</string>
+    </cost>
+    <quantity>
+      <string>1</string>
+      <string>2</string>
+      <string>3</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+    </region>
+  </Group>
+</ArrayOfGroup>

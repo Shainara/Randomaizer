@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <name>
+      <string>Глинтвейн</string>
+      <string>Картофель с грибами</string>
+      <string>Баранина с горохом</string>
+      <string>Треска с грибами</string>
+      <string>Пирожки с жареным лососем</string>
+      <string>Гороховый суп со свининой</string>
+      <string>Жульен</string>
+      <string>Пирожки с яйцом</string>
+      <string>Гороховый суп-пюре</string>
+      <string>Луковый суп</string>
+      <string>Омлет</string>
+      <string>Хрустящая курица</string>
+      <string>Бараний стейк</string>
+      <string>Рагу из говядины</string>
+      <string>Пирог с яблоками и черникой</string>
+    </name>
+    <cost>
+      <string>200</string>
+      <string>300</string>
+      <string>400</string>
+    </cost>
+    <quantity>
+      <string>20</string>
+      <string>30</string>
+      <string>40</string>
+      <string>50</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Расстегаи с рыбой</string>
+      <string>Гамбургский яблочный суп</string>
+      <string>Говядина тушеная по-Царски</string>
+      <string>Йоркширский пудинг</string>
+      <string>Рагу из баранины с капустой</string>
+      <string>Фаршированный кролик</string>
+      <string>Суп Плохого Охотника</string>
+      <string>Мясной рулет с яблоками</string>
+      <string>Свиная колбаска</string>
+      <string>Салат из сельди</string>
+    </name>
+    <cost>
+      <string>400</string>
+      <string>500</string>
+      <string>600</string>
+    </cost>
+    <quantity>
+      <string>20</string>
+      <string>30</string>
+      <string>40</string>
+      <string>50</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+  <Group>
+    <name>
+      <string>Равиоли</string>
+      <string>Пирог с курицей</string>
+      <string>Пицца</string>
+      <string>Ягодный пирог</string>
+      <string>Похлебка из трески</string>
+      <string>Тушеная оленина</string>
+      <string>Братвурст из оленины</string>
+      <string>Мясные кебабы</string>
+      <string>Тушеное мямо</string>
+      <string>Тушеная рыба</string>
+      <string>Пироги с капустой</string>
+    </name>
+    <cost>
+      <string>600</string>
+      <string>700</string>
+      <string>800</string>
+    </cost>
+    <quantity>
+      <string>20</string>
+      <string>30</string>
+      <string>40</string>
+      <string>50</string>
+    </quantity>
+    <region>
+      <string>Без региона</string>
+      <string>Молот</string>
+      <string>Клещи</string>
+      <string>Кузня</string>
+    </region>
+  </Group>
+</ArrayOfGroup>
